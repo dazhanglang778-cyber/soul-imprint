@@ -1,0 +1,4 @@
+interface:
+  display_name: "灵魂拓印"
+  short_description: "把照片中的人、动物、物件与场景转成纸上印痕，保住神态与辨识特征"
+  default_prompt: "用 $soul-imprint 将我提供的照片或描述做成一张纸上印痕作品，保留主体的辨识特征，让次要部分自然消隐。"
